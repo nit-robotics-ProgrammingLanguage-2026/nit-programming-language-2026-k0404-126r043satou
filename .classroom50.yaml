@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0404"
+secret: "nmm2dsr0"
+owner:
+  username: "126R043Satou"
+  id: 337816246
+  accepted_at: "2026-11-02T02:04:25Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0404-casting_data"
+  branch: "main"
